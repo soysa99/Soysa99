@@ -38,6 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soysa99&show_icons=true&locale=en" alt="soysa99" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soysa99&show_icons=true&locale=en&layout=compact" alt="soysa99" /></p>
 
-<p  align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soysa99&show_icons=true&locale=en&layout=compact" alt="soysa99" /></p>
-
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soysa99&" alt="soysa99" /></p>
